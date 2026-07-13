@@ -1,0 +1,6 @@
+# VoiceBridge
+
+> Accessible AI transcription for disabled users: live microphone captions, audio file to text, and read-aloud playback.
+
+## Pages
+- [Home](/): Record, upload, and transcribe audio; read transcripts aloud.
